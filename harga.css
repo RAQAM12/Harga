@@ -1,0 +1,12 @@
+.body {
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.harga {
+text-align: center;
+font-size: 100px;
+font-weight: bold;
+margin-top: 30px;
+background-color: blanchedalmond;
+}
